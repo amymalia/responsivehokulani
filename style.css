@@ -1,0 +1,56 @@
+body {
+  padding-top: 0px;  /* Move body of page below navbar. */
+  font-family: "Open Sans";
+  color: gold;
+
+}
+
+h3{
+  color:white;
+}
+
+.page-content {
+  padding: 10px;
+  text-align: center;
+}
+
+.banner {
+  background-image: url("banner.jpeg");
+  background-size: cover;
+  padding-top: 0px;
+  margin-top: 0px;
+  height: 200px;
+  width: 100%;
+}
+
+.navbar {
+  background-color: dodgerblue;
+  font-family: "Open Sans";
+  color: gold;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: gold;
+}
+
+.well {
+  color: gold;
+  background-color: dodgerblue;
+  border:none;
+}
+
+.menu{
+  list-style-type: none;
+
+}
+
+.displayed {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: gold;
+}
+
